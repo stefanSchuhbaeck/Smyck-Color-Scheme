@@ -23,7 +23,7 @@ body {
 }
 
 a {
-  color: #9CD9F0;
+  color: #5499E3;
   text-decoration: none;
 }
 
@@ -34,7 +34,7 @@ a:hover {
 p {
   padding-left: 30px;
   padding-right: 10px;
-  color: #B0B0B0;
+  color: #D7D7D7;
 }
 
 h1 {
@@ -46,7 +46,7 @@ h1 {
 }
 
 h2 {
-  color: #B0B0B0;
+  color: #D7D7D7;
   font-size: 20px;
   font-weight: normal;
   margin-top: 30px;
@@ -97,7 +97,7 @@ div#screenshots {
 }
 
 #black {
-  background-color: #000000;
+  background-color: #2D2D2D;
 }
 
 #gray {
@@ -129,11 +129,11 @@ div#screenshots {
 }
 
 #darkblue {
-  background-color: #4E90A7;
+  background-color: #6699FF;
 }
 
 #blue {
-  background-color: #9CD9F0;
+  background-color: #5499E3;
 }
 
 #darkmagenta {
@@ -141,7 +141,7 @@ div#screenshots {
 }
 
 #magenta {
-  background-color: #FBB1F9;
+  background-color: #F8AFF7;
 }
 
 #darkcyan {
@@ -149,11 +149,11 @@ div#screenshots {
 }
 
 #cyan {
-  background-color: #77DFD8;
+  background-color: #77DFC2;
 }
 
 #lightgray {
-  background-color: #B0B0B0;
+  background-color: #D7D7D7;
 }
 
 #white {
